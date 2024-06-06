@@ -17,7 +17,6 @@ Their old website had a form that we are scheduled to redesign this summer. It w
 
 ## Built With
 
-You can list a the tech stack that you've used over here
 - Figma 
 - Wordpress
 
@@ -25,7 +24,5 @@ You can list a the tech stack that you've used over here
 
 ## Contact
 
-This is where you can leave your social links for people to contact you, such as a LinkedIn profile or 
-Github.
-
-[My LinkedIn page](https://www.linkedin.com/in/petrine-lynghaug/)
+- [My LinkedIn page](https://www.linkedin.com/in/petrine-lynghaug/)
+- Petrinelynghaug@gmail.com
